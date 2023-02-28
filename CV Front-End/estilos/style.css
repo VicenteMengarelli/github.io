@@ -1,0 +1,42 @@
+* {font-family: 'EB Garamond', serif; color: black;
+    overflow: auto;}
+
+main {background-color: rgb(250, 248, 245);
+    -webkit-box-shadow: inset 3px 3px 20px 8px rgba(0, 0, 0, 0.15); 
+    box-shadow: inset 3px 3px 20px 8px rgba(138, 95, 95, 0.15);
+    width:auto;
+    padding: 25px;
+    border: 10px;
+    margin: auto 20%;
+    box-sizing:border-box;
+    display:inline-block;
+    }
+
+ul{list-style-type:none ;}
+article ul {list-style-type: disc;}
+
+.lateral {
+    float:left;
+    width: 400px;
+    height: auto;
+    padding: 40px;
+    padding-top: 40px;
+    padding-right: 15px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+}
+
+.perfil {width: 180px; height: 180px; border-radius: 50%;
+        border: 1px solid rgba(138, 223, 138, 0);
+        margin:18px}
+
+.icono {width: 10px; height: 10px; padding-right: 10px;
+    }
+
+.resumen {font-size: 20px; font-style:italic;}
+
+h1 {font-family: 'Aboreto', cursive; font-size: 50px; font-weight:300;}
+h2 {font-size: 28px;text-transform: uppercase;letter-spacing: 5px;}
+h3 {font-size: 20px;text-transform: uppercase;letter-spacing: 5px;}
+h4 {font-size: 18px;}
+
